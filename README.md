@@ -109,15 +109,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🚀 Future Improvements
-
-* Add support for more instructions in SimpleRiscISA
-* Implement additional programs (e.g., sorting, multiplication)
-* Enhance datapath with pipelining concepts
-* Include screenshots of Logisim simulation results
-
----
-
 ## 👤 Author
 
 **Jaswanth (ECE’27)**

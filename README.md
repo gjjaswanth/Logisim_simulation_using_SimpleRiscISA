@@ -109,12 +109,5 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👤 Author
-
-**Jaswanth (ECE’27)**
-Computer Organization & Design Project
-
----
-
 ⭐ If you find this project useful, feel free to star the repository!
 
